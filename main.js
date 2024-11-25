@@ -205,8 +205,6 @@ if (num32<0 && num32%2==0) {
 // 33-masala
 let num33 = +prompt("33-masala")
 if (num33>0 && num33%5==0) {
-    console.log("3")
-} else {
     console.log("0")
 } 
 // 34-masala
